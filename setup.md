@@ -32,3 +32,8 @@ py manage.py migrate #Apply migrations to db
 ```shell
 python manage.py runserver
 ```
+
+### Api docs
+
+installed swagger for api documentation 
+path <host>/swagger

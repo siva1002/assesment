@@ -43,7 +43,6 @@ class User(AbstractUser, AbstractBaseUser):
     class Meta:
         db_table ='user'
     @property
-
     def owner(self):
         return self
     
