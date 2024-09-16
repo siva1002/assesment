@@ -33,7 +33,8 @@ py manage.py migrate #Apply migrations to db
 python manage.py runserver
 ```
 
+
 ### Api docs
 
-installed swagger for api documentation 
-path <host>/swagger
+- installed swagger for API documentation path **<host>/swagger**
+
