@@ -36,5 +36,5 @@ python manage.py runserver
 
 ### Api docs
 
-- installed swagger for API documentation path **<host>/swagger**
+- installed swagger for API documentation path **/swagger**
 
