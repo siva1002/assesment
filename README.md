@@ -11,9 +11,9 @@ Before you get started, make sure you have the following prerequisites installed
   #### Clone the repository:
 
    ```bash
-   git clone https://github.com/venzo-mdu/ERP.git
+   https://github.com/siva1002/assesment.git
 
-  cd your-project  
+  cd Assessment
   ```
 #### Create a virtual environment (if applicable) and install project dependencies
 
