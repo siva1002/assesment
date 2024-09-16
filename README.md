@@ -18,7 +18,7 @@ Before you get started, make sure you have the following prerequisites installed
 #### Create a virtual environment (if applicable) and install project dependencies
 
 ```shell
-virtualenv venv
+py -m virtualenv venv
 source venv/bin/activate  # On macOS and Linux
 pip install -r requirements.txt
 ```
